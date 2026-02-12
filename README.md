@@ -18,4 +18,5 @@ Machine Learning Problem Type:
 This is a Regression problem because the goal is to predict a continuous numerical value (house price).
 
 Problem Statement:
+
 The objective of this project is to build a machine learning model that predicts the price of a house based on demographic and housing features such as income, house age, number of rooms, and population.
